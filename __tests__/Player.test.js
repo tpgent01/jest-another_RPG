@@ -28,7 +28,7 @@ test("gets player's stats as an object", () => {
 test('gets inventory from player or returns false', () => {
     const player = new Player('Dave');
 
-    expect(player.getInventroy()).toEqual(expect.any(Array));
+    expect(player.getInventory()).toEqual(expect.any(Array));
 
     player.inventory = [];
 
