@@ -24,7 +24,7 @@ The user should clone the repository from GitHub and open up the project in thei
 
 ## 🎨Usage 
 Please run command _node app.js_.
-[Click me for walkthrough❗️](https://drive.google.com/file/d/1_MROsTzq2raz74C_XY3Nl1DGxqNmPP5m/view)
+<br>[Click me for walkthrough❗️](https://drive.google.com/file/d/1_MROsTzq2raz74C_XY3Nl1DGxqNmPP5m/view)</br>
 <br>![](assets/play.gif)</br>
 
 
@@ -49,10 +49,11 @@ Taylor Gentry ©2020 All Rights Reserved.
 
 ## 📊Tests
 
-To test this project, please see the [Installation](#installation) section. Then run command _npm run test_.
+To test this project, please see the [Installation](#installation) section. 
+<br>Then run command _npm run test_.</br>
 <br>![](assets/test.gif)</br>
 
 
 ## ❓Questions
 If you have any questions about this projects, please contact me directly at tpgent01@outlook.com. 
-You can view more of my projects at https://github.com/tpgent01 👾
+<br>You can view more of my projects at https://github.com/tpgent01 👾</br>
